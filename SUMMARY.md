@@ -109,4 +109,4 @@
     * [Columbia STAT 8201: Deep Generative Models](机器学习进阶/STAT8201.md)
     * [U Toronto STA 4273 Winter 2021: Minimizing Expectations](机器学习进阶/STA4273.md)
     * [Stanford STATS214 / CS229M: Machine Learning Theory](机器学习进阶/CS229M.md)
-* 后记(后记.md)
+* [后记](后记.md)
