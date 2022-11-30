@@ -1,0 +1,118 @@
+{
+    "title": "《计算机自学指南》",
+    "author": "www.kilvn.com",
+    "description": "这是一本计算机的自学指南，也是对自己大学三年自学生涯的一个纪念。",
+    "language": "zh-hans",
+    "extension": null,
+    "generator": "site",
+    "links": {
+        "sharing": {
+            "all": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true,
+            "weibo": true
+        },
+        "sidebar": {
+            "藏经阁": "https://docs.kilvn.com/"
+        }
+    },
+    "output": null,
+    "pdf": {
+        "fontFamily": "Microsoft yahei",
+        "fontSize": 16,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": true,
+        "paperSize": "a4"
+    },
+    "plugins": [
+        "github",
+        "splitter",
+        "tbfed-pagefooter",
+        "-lunr", "-search", "search-pro",
+        "-sharing", "sharing-plus",
+        "-livereload",
+        "github-buttons",
+        "image-captions",
+        "highlight",
+        "anchor-navigation-ex",
+        "code",
+        "advanced-emoji",
+        "pageview-count",
+        "lightbox",
+        "hide-element",
+        "theme-comscore",
+        "copy-code-button",
+        "auto-scroll-table"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": false
+        },
+        "code": {
+            "copyButtons": true
+        },
+        "hide-element": {
+            "elements": [".gitbook-link"]
+        },
+        "github": {
+            "url": "https://github.com/kilvn/cs-self-learning"
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy <a style=\"font-weight: bold\" href=\"https://www.kilvn.com/\" target=\"_blank\">Kilvn</a> 2022.",
+            "modify_label": "最后更新时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "github-buttons": {
+            "repo": "kilvn/cs-self-learning",
+            "types": [
+                "star",
+                "watch"
+            ],
+            "size": "small"
+        },
+        "image-captions": {
+            "caption": "_CAPTION_"
+        },
+        "anchor-navigation-ex": {
+            "associatedWithSummary": true,
+            "printLog": false,
+            "multipleH1": false,
+            "mode": "float",
+            "showGoTop":true,
+            "float": {
+                "floatIcon": "fa fa-navicon",
+                "showLevelIcon": false,
+                "level1Icon": "fa fa-hand-o-right",
+                "level2Icon": "fa fa-hand-o-right",
+                "level3Icon": "fa fa-hand-o-right"
+            },
+            "pageTop": {
+                "showLevelIcon": false,
+                "level1Icon": "fa fa-hand-o-right",
+                "level2Icon": "fa fa-hand-o-right",
+                "level3Icon": "fa fa-hand-o-right"
+            }
+        },
+        "sharing": {
+            "douban": true,
+            "facebook": false,
+            "google": true,
+            "pocket": false,
+            "qq": true,
+            "qzone": false,
+            "twitter": true,
+            "weibo": true,
+            "all": [
+                "douban", "facebook", "google", "instapaper", "linkedin", "twitter", "weibo",
+                "messenger", "qq", "qzone", "viber", "whatsapp"
+            ]
+        }
+    },
+    "variables": {}
+}
