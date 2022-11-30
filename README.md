@@ -1,7 +1,3 @@
-<figure markdown>
-  ![Image title](./images/title.png){ width="600" }
-</figure>
-
 # 前言
 
 **最近更新：英文版正在[建设中](https://github.com/PKUFlyingPig/cs-self-learning/issues/222)，增加陈天奇[机器学习编译](机器学习系统/MLC.md)，增加 CMU [机器学习系统](机器学习系统/CMU10-414.md), 增加 [学习工作流](必学工具/workflow.md)**
